@@ -1,15 +1,15 @@
 {
-  "main.js": "/my-app/static/js/main.293c653e.chunk.js",
-  "main.js.map": "/my-app/static/js/main.293c653e.chunk.js.map",
-  "static/css/1.2f00f733.chunk.css": "/my-app/static/css/1.2f00f733.chunk.css",
-  "static/js/1.3ecbe095.chunk.js": "/my-app/static/js/1.3ecbe095.chunk.js",
-  "static/js/1.3ecbe095.chunk.js.map": "/my-app/static/js/1.3ecbe095.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.a3bd857c.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.a3bd857c.js.map",
-  "static/media/CSILogo.png": "/my-app/static/media/CSILogo.5b625fca.png",
-  "static/media/background.png": "/my-app/static/media/background.6c4eb752.png",
-  "static/css/1.2f00f733.chunk.css.map": "/my-app/static/css/1.2f00f733.chunk.css.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.c206a5aa738307c1ec970d5754a460bc.js": "/my-app/precache-manifest.c206a5aa738307c1ec970d5754a460bc.js",
-  "service-worker.js": "/my-app/service-worker.js"
+  "main.js": "/TodoList/static/js/main.af10c30c.chunk.js",
+  "main.js.map": "/TodoList/static/js/main.af10c30c.chunk.js.map",
+  "static/css/1.2f00f733.chunk.css": "/TodoList/static/css/1.2f00f733.chunk.css",
+  "static/js/1.fc928b25.chunk.js": "/TodoList/static/js/1.fc928b25.chunk.js",
+  "static/js/1.fc928b25.chunk.js.map": "/TodoList/static/js/1.fc928b25.chunk.js.map",
+  "runtime~main.js": "/TodoList/static/js/runtime~main.e5fd0004.js",
+  "runtime~main.js.map": "/TodoList/static/js/runtime~main.e5fd0004.js.map",
+  "static/media/CSILogo.png": "/TodoList/static/media/CSILogo.5b625fca.png",
+  "static/media/background.png": "/TodoList/static/media/background.6c4eb752.png",
+  "static/css/1.2f00f733.chunk.css.map": "/TodoList/static/css/1.2f00f733.chunk.css.map",
+  "index.html": "/TodoList/index.html",
+  "precache-manifest.cc8d3e5165365c335818386194bca424.js": "/TodoList/precache-manifest.cc8d3e5165365c335818386194bca424.js",
+  "service-worker.js": "/TodoList/service-worker.js"
 }
